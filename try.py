@@ -1,3 +1,1 @@
 print("try")
-
-sum
