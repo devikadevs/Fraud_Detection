@@ -7,4 +7,6 @@ def sum(a,b):
     c = a + b
     return c
 
+print("added a new function sum which is not correct")
 
+print("mad")
